@@ -1,0 +1,15 @@
+@import url("//db.onlinewebfonts.com/c/0a086e32e41c5e5960b26626757f07f3?family=Apercu");
+                
+
+.links {
+  display: flex;
+  gap: 20px;
+}
+
+* {
+  font-family: "Apercu Regular";
+}
+
+h1, h2, h3, h4, h5, h6, .heading {
+  font-weight: 900;
+}
